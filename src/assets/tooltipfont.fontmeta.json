@@ -1,0 +1,10 @@
+{
+  "basey": 12,
+  "spacewidth": 4,
+  "treshold": 0.5,
+  "color": [238,218,178],
+  "unblendmode": "removebg",
+  "shadow": false,
+  "chars": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "seconds": ",.-:;\"'"
+}
