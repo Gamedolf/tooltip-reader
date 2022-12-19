@@ -1,6 +1,6 @@
 {
-  "basey": 12,
-  "spacewidth": 4,
+  "basey": 10,
+  "spacewidth": 1,
   "treshold": 0.5,
   "color": [238,218,178],
   "unblendmode": "removebg",
